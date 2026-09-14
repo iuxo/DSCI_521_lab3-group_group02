@@ -7,11 +7,20 @@ format: revealjs
 
 ## 1. Where did you live before MDS, and what is one thing you miss about it?
 
+- **Hans**: I was in China and I miss the dim sum breakfast a lot.
+
 ## 2. What did you do before MDS: a degree, a job, or both?
+
+- **Hans**: I was doing undergraduate studies.
 
 ## 3. What made you apply to MDS?
 
+- **Hans**: Job seeking and master studies.
+
 ## 4. What is one thing you want to be able to do by the end of the program?
+
+- **Hans**: Finish and understand the entire DA pipeline, work on projects on my own.
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
