@@ -11,7 +11,7 @@ format: revealjs
 
 ## 2. What did you do before MDS: a degree, a job, or both?
 
-- **Hans**: I was doing undergraduate studies.
+- **Hans**: I was doing undergraduate studies on Math and statistics.
 
 ## 3. What made you apply to MDS?
 
@@ -19,7 +19,7 @@ format: revealjs
 
 ## 4. What is one thing you want to be able to do by the end of the program?
 
-- **Hans**: Finish and understand the entire DA pipeline, work on projects on my own.
+- **Hans**: Finish and understand the entire DA pipeline, work on research projects on my own.
 
 This is a Quarto website.
 
