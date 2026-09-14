@@ -6,12 +6,17 @@ format: revealjs
 
 
 ## 1. Where did you live before MDS, and what is one thing you miss about it?
+I lived in Starkville, MS for the past five years and the few things I missed about it are my friends and the short commuting trip.
 
 ## 2. What did you do before MDS: a degree, a job, or both?
+I completed a master degree at University of Illinois and worked at Mississippi State University as a GIS Developer for five years.
 
 ## 3. What made you apply to MDS?
+I would like to embrance the convergance of AI and become more competitive in the current job market.
 
 ## 4. What is one thing you want to be able to do by the end of the program?
+I would like to be capable of utilizing the latest AI tools and build my own AI models.
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
