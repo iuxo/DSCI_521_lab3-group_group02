@@ -11,20 +11,17 @@ format: revealjs
 - **Hans**: I was in China and I miss the dim sum breakfast a lot.
 
 **Rshan**: I was living in Addis Ababa, Ethiopia, and I miss Enjera my favorite food.
-**Rshan**: I was living in Addis Ababa, Ethiopia, and I miss Enjera my favorite food.
 ## 2. What did you do before MDS: a degree, a job, or both?
 **Jared**: I was working a job before MDS.
 
 - **Hans**: I was doing undergraduate studies on Math and statistics.
 
 **Rshan**: I was doing as a graduate management trainee in Safaricom.
-**Rshan**: I was doing as a graduate management trainee in Safaricom.
 ## 3. What made you apply to MDS?
 **Jared**: I wanted to formalize my education.
 
 - **Hans**: Job seeking and master studies.
 
-**Rshan**: I really like data insights.
 **Rshan**: I really like data insights.
 ## 4. What is one thing you want to be able to do by the end of the program?
 **Jared**: I want to be able to take any data set and make it usable.
@@ -33,7 +30,6 @@ format: revealjs
 **Rshan**: I want to be a professional data sceince.
 - **Hans**: Finish and understand the entire DA pipeline, work on research projects on my own.
 
-**Rshan**: I want to be a professional data sceince.
 
 This is a Quarto website.
 
