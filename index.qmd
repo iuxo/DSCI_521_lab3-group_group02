@@ -29,5 +29,5 @@ format: revealjs
 **Hans**: Finish and understand the entire DA pipeline, work on research projects on my own.
 **Rshan**: I want to be a professional data sceince.
 
-This is a Quarto website.
-
+## Jared Chuang (jaredc28)
+![SS](images/jaredc28.png)
