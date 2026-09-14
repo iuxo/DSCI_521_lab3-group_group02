@@ -6,6 +6,7 @@ format: revealjs
 
 
 ## 1. Where did you live before MDS, and what is one thing you miss about it?
+<<<<<<< HEAD
 **Rshan**: I was living in Addis Ababa, Ethiopia, and I miss Enjera my favorite food.
 ## 2. What did you do before MDS: a degree, a job, or both?
 **Rshan**: I was doing as a graduate management trainee in Safaricom.
@@ -14,5 +15,25 @@ format: revealjs
 ## 4. What is one thing you want to be able to do by the end of the program?
 **Rshan**: I want to be a professional data sceince.
 This is a Quarto website.
+=======
+**Jared**: I lived in Vancouver before MDS, so don't have much to miss.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+- **Hans**: I was in China and I miss the dim sum breakfast a lot.
+
+## 2. What did you do before MDS: a degree, a job, or both?
+**Jared**: I was working a job before MDS.
+
+- **Hans**: I was doing undergraduate studies.
+
+## 3. What made you apply to MDS?
+**Jared**: I wanted to formalize my education.
+
+- **Hans**: Job seeking and master studies.
+
+## 4. What is one thing you want to be able to do by the end of the program?
+**Jared**: I want to be able to take any data set and make it usable.
+
+- **Hans**: Finish and understand the entire DA pipeline, work on projects on my own.
+
+>>>>>>> origin/main
+
