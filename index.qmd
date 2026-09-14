@@ -6,7 +6,6 @@ format: revealjs
 
 
 ## 1. Where did you live before MDS, and what is one thing you miss about it?
-
 **Jared**: I lived in Vancouver before MDS, so don't have much to miss.
 **Ethan**: I lived in Starkville, MS for the past five years and the few things I missed about it are my friends and the short commuting trip.
 **Hans**: I was in China and I miss the dim sum breakfast a lot.
