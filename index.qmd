@@ -21,6 +21,7 @@ format: revealjs
 **Jared**: I wanted to formalize my education.
 
 - **Hans**: Job seeking and master studies.
+**Rshan**: I want to be pvrofessional data science.
 
 **Rshan**: I really like data insights.
 ## 4. What is one thing you want to be able to do by the end of the program?
