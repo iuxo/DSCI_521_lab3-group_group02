@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#where-did-you-live-before-mds-and-what-is-one-thing-you-miss-about-it",
+    "href": "index.html#where-did-you-live-before-mds-and-what-is-one-thing-you-miss-about-it",
+    "title": "lab3",
+    "section": "1. Where did you live before MDS, and what is one thing you miss about it?",
+    "text": "1. Where did you live before MDS, and what is one thing you miss about it?"
+  },
+  {
+    "objectID": "index.html#what-did-you-do-before-mds-a-degree-a-job-or-both",
+    "href": "index.html#what-did-you-do-before-mds-a-degree-a-job-or-both",
+    "title": "lab3",
+    "section": "2. What did you do before MDS: a degree, a job, or both?",
+    "text": "2. What did you do before MDS: a degree, a job, or both?"
+  },
+  {
+    "objectID": "index.html#what-made-you-apply-to-mds",
+    "href": "index.html#what-made-you-apply-to-mds",
+    "title": "lab3",
+    "section": "3. What made you apply to MDS?",
+    "text": "3. What made you apply to MDS?"
+  },
+  {
+    "objectID": "index.html#what-is-one-thing-you-want-to-be-able-to-do-by-the-end-of-the-program",
+    "href": "index.html#what-is-one-thing-you-want-to-be-able-to-do-by-the-end-of-the-program",
+    "title": "lab3",
+    "section": "4. What is one thing you want to be able to do by the end of the program?",
+    "text": "4. What is one thing you want to be able to do by the end of the program?\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
