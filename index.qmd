@@ -36,3 +36,6 @@ This is a Quarto website.
 
 ## Jared Chuang (jaredc28)
 ![SS](images/jaredc28.png)
+
+## Hans Ji (jxt2025)
+![Screenshot](images/screenshot.png)
