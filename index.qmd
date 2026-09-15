@@ -29,5 +29,8 @@ format: revealjs
 **Hans**: Finish and understand the entire DA pipeline, work on research projects on my own.
 **Rshan**: I want to be a professional data sceince.
 
+## Ethan Liang (lymine)
+![lymine](images/lymine.png)
+
 This is a Quarto website.
 
