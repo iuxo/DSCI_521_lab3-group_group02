@@ -34,3 +34,5 @@ format: revealjs
 
 This is a Quarto website.
 
+## Jared Chuang (jaredc28)
+![SS](images/jaredc28.png)
